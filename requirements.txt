@@ -2,3 +2,7 @@ numpy
 pandas
 matplotlib
 scikit-learn
+pandas_datareader
+jugaad_data
+yfinance
+ipykernel
