@@ -31,6 +31,11 @@ pip3 install -r requirements.txt
    5. Decision Tree Regression
    6. Random Forest Regression
 3. Classification
+   1. [Logistic Regression](./classification/logistic_regression.ipynb)
+   2. [K Nearest Neighbour](./classification/k_nearest_neighbour.ipynb)
+   3. [Support Vector Machine](./classification/support_vector_machine.ipynb)
+   4. [Kernel SVM](./classification/kernel_svm.ipynb)
+   5. [Naive Bayes](./classification/naive_bayes.ipynb)
 4. Clustering
 
 ### Regression
