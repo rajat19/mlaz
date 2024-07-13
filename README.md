@@ -37,6 +37,8 @@ pip3 install -r requirements.txt
    4. [Kernel SVM](./classification/kernel_svm.ipynb)
    5. [Naive Bayes](./classification/naive_bayes.ipynb)
 4. Clustering
+   1. [K Means Clustering](./clustering/k_means_clustering.ipynb)
+   2. [Hierarchical Clustering](./clustering/hierarchical_clustering.ipynb)
 
 ### Regression
 
